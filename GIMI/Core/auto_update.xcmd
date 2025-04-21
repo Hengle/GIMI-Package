@@ -53,3 +53,5 @@ delete = ShaderFixes\bf0c8aa094538450-vs_replace.bin
 delete = ShaderFixes\653c63ba4a73ca8b-vs_replace.bin
 delete = ShaderFixes\41299170b7e85eb5-vs_replace.bin
 delete = Core\GIMI\Libraries\Offset\main.ini
+delete = ShaderFixes\help.ini
+delete = ShaderFixes\help.hlsl
